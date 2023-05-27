@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios_Repetcao_Condicionaisicionais.iml" filepath="$PROJECT_DIR$/.idea/Exercicios_Repetcao_Condicionaisicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_condicionais_aula/exercicios_condicionais_aula.iml" filepath="$PROJECT_DIR$/exercicios_condicionais_aula/exercicios_condicionais_aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_repeticao_aula/exercicios_repeticao_aula.iml" filepath="$PROJECT_DIR$/exercicios_repeticao_aula/exercicios_repeticao_aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_repeticao_entregar/exercicios_repeticao_entregar.iml" filepath="$PROJECT_DIR$/exercicios_repeticao_entregar/exercicios_repeticao_entregar.iml" />
+    </modules>
+  </component>
+</project>
